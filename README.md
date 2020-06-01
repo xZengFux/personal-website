@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/xZengFux/personal-website/master/src/images/logo.png?token=AFLBVEGN6M34CFR2RHALATS62RKVO" width="100" />
+  <img alt="Logo" src="https://raw.githubusercontent.com/xZengFux/personal-website/master/src/images/logo128.png" width="128" />
 </div>
 <h1 align="center">
   xZengFux.com - v1
