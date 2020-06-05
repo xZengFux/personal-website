@@ -4,7 +4,7 @@ module.exports = {
     'Zeng Fu is a software engineer based in Seattle, WA who specializes in building (and occasionally designing) exceptional websites, applications, and everything in between.',
   siteKeywords:
     'Zeng Fu, Zeng, Fu, xZengFux, software engineer, back-end engineer, web developer, UCSD, UW',
-  siteUrl: 'https://brittanychiang.com',
+  siteUrl: 'https://zengfu.info',
   siteLanguage: 'en_US',
   //googleAnalyticsID: 'UA-45666519-2',
   //googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
