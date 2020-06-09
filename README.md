@@ -2,10 +2,10 @@
   <img alt="Logo" src="https://raw.githubusercontent.com/xZengFux/personal-website/master/src/images/logo128.png" width="128" />
 </div>
 <h1 align="center">
-  xZengFux.com - v1
+  zengfu.info - v1
 </h1>
 <p align="center">
-  The First iteration of <a href="https://xZengFux.com" target="_blank">xZengFux.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
+  The First iteration of <a href="https://zengfu.info" target="_blank">ZengFu.info</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
 
 
